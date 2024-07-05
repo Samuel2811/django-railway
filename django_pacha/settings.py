@@ -29,7 +29,6 @@ ALLOWED_HOSTS = ["web-production-19f8.up.railway.app", "127.0.0.1"]
 CSRF_TRUSTED_ORIGINS = ['https://web-production-19f8.up.railway.app', 'https://127.0.0.1']
 SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups'
 
-
 # Application definition
 
 INSTALLED_APPS = [
